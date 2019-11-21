@@ -1,0 +1,28 @@
+export default {
+    "blog.title":"News",
+    "blog.contact-form.title": "Feedback",
+    "blog.contact-form.subtitle": "Was this information useful? Tell us what you think.",
+    "blog.cards.text.10":"Choosing a distinct and well-considered Chinese name for app or business can both protect your IP and make it easier...",
+    "blog.cards.text.9": "Most app developers in the USA and Europe don’t keep an eye on in the Chinese app markets. You probably already know that...",
+    "blog.cards.text.8": "On May 15th 2019 US President Donald Trump issued an ‘Executive Order on Securing the Information and Communications Technology and Services Supply Chain’",
+    "blog.cards.text.7": "For foreign app companies, expanding into the Chinese app market is a polarizing topic. People fall on two opposite sides of an extreme spectrum...",
+    "blog.cards.text.6": "One of the key things that make the Chinese app climate so unique, is that the market is split into hundreds of local app stores...",
+    "blog.cards.text.5": "Once a foreign app developer has successfully completed distribution, the next step is to work out how your app is doing in the local marketplace. Unfortunately...",
+    "blog.cards.text.4": "Clients often want to know what options they have when it comes to launching their app. Well, there are 2 main options you can choose from, organic launches and...",
+    "blog.cards.text.3": "Pretty much everybody understands the necessity for a security solution when it comes to protecting computers from hacks and viruses. Unfortunately...",
+    "blog.cards.text.2": "Since the process of distributing apps is becoming more and more complicated, we thought it would be the perfect time to summarize the current app distribution...",
+    "blog.cards.text.1": "We invest a lot of our time explaining the differences between the Western and Chinese Android market to our clients, so what better topic to...",
+    
+    "blog.cards.title.10": "How to Choose and Use a Chinese Name",
+    "blog.cards.title.9": "If Your App Is Already Available in China, That May Be A Problem",
+    "blog.cards.title.8": "Huawei’s Addition to the US Entity List",
+    "blog.cards.title.7": "The Ultimate Guide to Succeding in the Chinese App Market",
+    "blog.cards.title.6": "App Purchase Revenue Share in China",
+    "blog.cards.title.5": "App Data Transparency in China",
+    "blog.cards.title.4": "App Launches in China",
+    "blog.cards.title.3": "App Piracy in China",
+    "blog.cards.title.2": "App Publishing in China",
+    "blog.cards.title.1": "Chinese/Western App Markets",
+    "blog.blog-card.button": "READ MORE",
+
+};
